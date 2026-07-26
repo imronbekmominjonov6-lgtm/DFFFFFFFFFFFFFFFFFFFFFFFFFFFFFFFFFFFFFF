@@ -1,7 +1,7 @@
 import os
 
 # Bot tokeni - agar environment variable bo'lmasa shu default ishlatiladi
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8923651324:AAGfucuLt1CnZfHiu3YGe1EqvnuaaPRxq3s")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8528356607:AAHiCU6fDDhjsQLO7TRFwfx3oSqpfeFuLaQ")
 
 # Adminlar ro'yxati (bir nechta admin bo'lishi mumkin)
 ADMIN_IDS = [8642218989, 8155876425]
