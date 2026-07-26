@@ -13,7 +13,7 @@ ADMIN_ID = ADMIN_IDS[0]
 DB_NAME = "referal_bot.db"
 
 # Referal linkida ishlatiladigan bot username (kod ichida avtomatik ham aniqlanadi)
-BOT_USERNAME = os.getenv("BOT_USERNAME", "")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "@Taxtibor_bot")
 
 # Mini App (Web App) joylashgan HTTPS manzil - deploy qilingandan keyin shu yerga yozing
 # Masalan: https://sizning-bot.onrender.com
